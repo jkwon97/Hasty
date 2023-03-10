@@ -1,1 +1,1 @@
-# Hasty
+Hasty is a platform designed to connect military personnel with homeowners to create a seamless moving experience when experiencing a change in base orders. Hasty is an MVP and due to the proprietary nature of the code, I can only provide snippets of my code. This repository contains SQL, .NET, and React code for the Stripe Payment and Subscription feature.
