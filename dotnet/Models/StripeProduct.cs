@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sabio.Models.Domain
+{
+    public class StripeProduct
+    {
+        public int Id { get; set; }
+        public string ProductId { get; set; }
+        public string PriceId { get; set; }
+        public int Amount { get; set; }
+        public string Name { get; set; }
+    }
+}
